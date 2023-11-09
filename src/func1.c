@@ -1,4 +1,4 @@
 
 void foo(void){
-    printf("foooo\n");
+    printf("hello~~~ foooo\n");
 }
